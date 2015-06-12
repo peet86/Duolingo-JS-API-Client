@@ -1,0 +1,29 @@
+{
+  "name": "DuoAPI",
+  "version": "1.0.0",
+  "authors": [
+    "Peter Varga info@vargapeter.com"
+  ],
+  "description": "Duolingo JavaScript API Client",
+  "main": "lib/duoapi.js",
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "keywords": [
+    "duolingo",
+    "api",
+    "js",
+    "javascript"
+  ],
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "test"
+  ],
+  "dependencies": {
+    "browser-jsonp": "~1.0.8"
+  },
+  "license": "MIT",
+  "homepage": "http://www.vargapeter.com"
+}
