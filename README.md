@@ -1,5 +1,6 @@
 # Duolingo-JS-API-Client
 Unofficial JavaScript "API client" for Duolingo.com
+
 Get any user's profile, words, lessons and more by username
 
 ###Sample usage:
